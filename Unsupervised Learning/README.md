@@ -1,4 +1,4 @@
-Learning Objectives
+Learning Objectives </br>
 -Implement the k-means clustering algorithm
 -Implement the k-means optimization objective
 -Initialize the k-means algorithm
